@@ -1,1 +1,2 @@
-# Titanic_EDA_ML
+# Titanic-survival
+Extensive EDA on titanic data set
